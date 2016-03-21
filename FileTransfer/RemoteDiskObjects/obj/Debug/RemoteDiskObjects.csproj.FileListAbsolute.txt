@@ -1,0 +1,10 @@
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\bin\Debug\RemoteDiskObjects.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\bin\Debug\RemoteDiskObjects.pdb
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\obj\Debug\RemoteDiskObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\obj\Debug\RemoteDiskObjects.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\obj\Debug\RemoteDiskObjects.pdb
+D:\用户目录\Desktop\FileTransfer\RemoteDiskObjects\bin\Debug\RemoteDiskObjects.dll
+D:\用户目录\Desktop\FileTransfer\RemoteDiskObjects\bin\Debug\RemoteDiskObjects.pdb
+D:\用户目录\Desktop\FileTransfer\RemoteDiskObjects\obj\Debug\RemoteDiskObjects.dll
+D:\用户目录\Desktop\FileTransfer\RemoteDiskObjects\obj\Debug\RemoteDiskObjects.pdb
+D:\用户目录\Desktop\FileTransfer\RemoteDiskObjects\obj\Debug\RemoteDiskObjects.csprojResolveAssemblyReference.cache

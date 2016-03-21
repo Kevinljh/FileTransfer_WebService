@@ -1,0 +1,11 @@
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\bin\Release\FileTransferClient.exe.config
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\bin\Release\FileTransferClient.exe
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\bin\Release\FileTransferClient.pdb
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\bin\Release\RemoteDiskObjects.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\bin\Release\RemoteDiskObjects.pdb
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\obj\Release\FileTransferClient.csprojResolveAssemblyReference.cache
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\obj\Release\FileTransferClient.Form1.resources
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\obj\Release\FileTransferClient.Properties.Resources.resources
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\obj\Release\FileTransferClient.csproj.GenerateResource.Cache
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\obj\Release\FileTransferClient.exe
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransferClient\obj\Release\FileTransferClient.pdb

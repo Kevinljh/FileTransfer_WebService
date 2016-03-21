@@ -1,0 +1,5 @@
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\bin\Release\RemoteDiskObjects.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\bin\Release\RemoteDiskObjects.pdb
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\obj\Release\RemoteDiskObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\obj\Release\RemoteDiskObjects.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\RemoteDiskObjects\obj\Release\RemoteDiskObjects.pdb

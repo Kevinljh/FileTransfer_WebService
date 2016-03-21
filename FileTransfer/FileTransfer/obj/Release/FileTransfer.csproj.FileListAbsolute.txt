@@ -1,0 +1,15 @@
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\bin\FileTransfer.dll.config
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\bin\FileTransfer.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\bin\FileTransfer.pdb
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\obj\Release\FileTransfer.csprojResolveAssemblyReference.cache
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\obj\Release\FileTransfer.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\obj\Release\FileTransfer.pdb
+D:\用户目录\Desktop\FileTransfer\FileTransfer\bin\FileTransfer.dll
+D:\用户目录\Desktop\FileTransfer\FileTransfer\bin\FileTransfer.pdb
+D:\用户目录\Desktop\FileTransfer\FileTransfer\bin\RemoteDiskObjects.dll
+D:\用户目录\Desktop\FileTransfer\FileTransfer\bin\RemoteDiskObjects.pdb
+D:\用户目录\Desktop\FileTransfer\FileTransfer\obj\Release\FileTransfer.csprojResolveAssemblyReference.cache
+D:\用户目录\Desktop\FileTransfer\FileTransfer\obj\Release\FileTransfer.dll
+D:\用户目录\Desktop\FileTransfer\FileTransfer\obj\Release\FileTransfer.pdb
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\bin\RemoteDiskObjects.dll
+C:\Users\Jli1-cc\Desktop\FileTransfer\FileTransfer\bin\RemoteDiskObjects.pdb

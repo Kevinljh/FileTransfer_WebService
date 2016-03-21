@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="FileTransfer/FileTransfer" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Jli1-cc\\Desktop\\FileTransfer\\FileTransfer\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Jli1-cc\\Desktop\\FileTransfer\\FileTransfer\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
