@@ -1,2 +1,2 @@
 # FileTransfer_WebService
-![alt tag](https://github.com/FileTransfer_WebService/blob/master/FileTransfer.PNG)
+![alt tag](https://github.com/Kevinljh/FileTransfer_WebService/blob/master/FileTransfer.PNG)
